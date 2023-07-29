@@ -1,0 +1,40 @@
+{
+  "cruddata": [
+    {
+      "id": 3,
+      "name": "shraddha",
+      "email": "shraddha@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 4,
+      "name": "pratik",
+      "email": "prtik@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 8,
+      "name": "Anand ",
+      "email": "nestcraftdesign@gmail.com",
+      "phone": "09137573481"
+    },
+    {
+      "id": 10,
+      "name": "shraddhaborade",
+      "email": "shradddha13@gmail.com",
+      "phone": "8521236540"
+    },
+    {
+      "id": 11,
+      "name": "demo",
+      "email": "demo@gmail.com",
+      "phone": "8510236789"
+    },
+    {
+      "id": 12,
+      "name": "demo1",
+      "email": "demo1@gmail.com",
+      "phone": "896523456633"
+    }
+  ]
+}

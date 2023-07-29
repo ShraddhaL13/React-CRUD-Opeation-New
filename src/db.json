@@ -1,0 +1,16 @@
+{
+    "cruddata": [
+      {
+        "id": 1,
+        "name": "testing",
+        "email": "test@gmail.com",
+        "phone": "1234567890"
+      },
+      {
+        "id": 2,
+        "name": "shraddha",
+        "email": "shraddha@gmail.com",
+        "phone": "098976643211"
+      }
+    ]
+  }
